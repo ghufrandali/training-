@@ -1,5 +1,7 @@
 {
   "name": "first-mobile-project",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
